@@ -1,0 +1,2 @@
+This is what we're gonna use for the PPO in python:
+https://github.com/ericyangyu/PPO-for-Beginners?tab=readme-ov-file
