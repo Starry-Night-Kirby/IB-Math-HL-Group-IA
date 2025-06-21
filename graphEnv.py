@@ -162,7 +162,7 @@ class GraphEnv(gymnasium.Env):
             # self.done = True
 
         if self.tot_area_shapes / self.container_area >= 0.8:
-            self.reward += 8000.0
+            self.reward += 4000.0
             self.done = True
 
         if self.current_step >= self.max_steps:
